@@ -1,0 +1,19 @@
+[project]
+name = "lib_the_farmer_was_replaced"
+version = "0.1.0"
+authors = [
+  { name="Orange 233", email="orange_233@foxmail.com" },
+]
+description = "A base library of The Farmer Was Replaced."
+readme = "README.md"
+requires-python = ">=3.9"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "Operating System :: OS Independent",
+]
+license = "MIT"
+license-files = ["LICEN[CS]E*"]
+
+[project.urls]
+Homepage = "https://github.com/Orange23333/sampleproject"
+Issues = "https://github.com/pypa/sampleproject/issues"
