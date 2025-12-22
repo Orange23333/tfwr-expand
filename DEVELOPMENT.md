@@ -1,1 +1,1 @@
-Only `__builtin__.py`, `__init__.py`, `_fake_collection.py` are *Python* scripts. Other scripts **must** be written in *a language defined by The Farmer Was Replaced* which is **different** from *Python*.
+Only `__builtin__.py`, `__init__.py` and `_tfwr_official_provided.__builtins__.py` are *Python* scripts. Other scripts **must** be written in *a language defined by The Farmer Was Replaced* which is **different** from *Python*.

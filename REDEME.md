@@ -1,4 +1,4 @@
-<h1>Expand Library of The Farmer Was Relpaced</h1>
+<h1>Expand Library of <i>The Farmer Was Relpaced</i></h1>
 
 Just copy all the file into your save folder to use it.
 Also you can install this libray by excuting `pip install TFWR-expand`.
@@ -7,8 +7,8 @@ Enjoy it!
 
 # Document
 
-Basically, `__builtin.py`, `__init__.py` and `_fake_collection.py` provide the Python language features to you.
-They are Python scripts which **can't** be imported in the game.
+Basically, `__builtin__.py`, `__init__.py` and `_tfwr_official_provided.__builtins__.py` provide the *Python* language features to you.
+They are *Python* scripts which **can't** be imported in the game.
 
 ## Algorithms
 

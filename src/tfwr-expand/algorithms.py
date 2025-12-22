@@ -1,5 +1,6 @@
 # Impelement of quick sort algorithm refers to https://www.cnblogs.com/kevinbee/p/18678275 .
 
+
 def _swap(a, b):
 	return b, a
 
