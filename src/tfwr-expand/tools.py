@@ -1,8 +1,8 @@
 def has_item(item):
 	return num_items(item) > 0
 
-def cost_enough(entity, level=None, scale=1.0):
-	cost = get_cost(entity, level)
+def cost_enough(thing, level=None, scale=1.0):
+	cost = get_cost(thing, level)
 
 	if cost is None:
 		return True
