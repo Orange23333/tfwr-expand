@@ -3,6 +3,8 @@
 Just copy all the file into your save folder to use it.
 Also you can install this libray by excuting `pip install TFWR-expand`.
 
+**CAUTION: Remember to backup a `__builtin__.py` file in your save folder before using this library. This library will overwrite your `__builtin__.py` file. Or, you can use this libray at other folder or do not copy `__builtin__.py` file into your save folder.**
+
 Enjoy it!
 
 # Document

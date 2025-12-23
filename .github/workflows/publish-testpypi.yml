@@ -3,9 +3,8 @@
 name: 'Publish Python 🐍 distribution 📦 to PyPI and TestPyPI'
 
 on:
-  'push'
-#  push:
-#    branches: [ "main" ]
+  push:
+    branches: [ ’dev' ]
 
 jobs:
   build:
